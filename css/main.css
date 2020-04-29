@@ -243,6 +243,7 @@ margin: 0 0 10px;
 }
 
 .full-banner:before {
+    content:"";
     position: absolute;
     border: 1px solid white;
     border-radius: 30px 30px 50px 50px;
@@ -251,7 +252,7 @@ margin: 0 0 10px;
 
 .full-banner-image {
     flex: 0 0 58.333333%;
-    background-image: url(/img/vista.jpg);
+    background-image: url('../img/vista.jpg');
     background-position: top center;
     background-size: cover;
     min-height: 400px;
@@ -275,8 +276,8 @@ margin: 0 0 10px;
 
 .full-banner-sidebar h4:after {
 content: "";
-width: 100x1px;
-height: 100x1px;
+width: 100px;
+height: 1px;
 background-color: #faa541;
 margin: 20px auto;
 display: block;
