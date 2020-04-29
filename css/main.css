@@ -167,11 +167,11 @@ left: -30px;
 
 .hero h2 {
   color: #faa541;
-    }
+}
 
 .hero h2, .hero h2 {
-    font-weight: 700px;
     font-size: 63px;
+    font-weight: 700px;
     line-height: 0.9;
 }
 
