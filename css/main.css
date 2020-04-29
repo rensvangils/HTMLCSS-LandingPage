@@ -173,4 +173,23 @@ left: -30px;
     font-weight: 700px;
     font-size: 63px;
     line-height: 0.9;
-    }
+}
+
+.hero p {
+letter-spacing: 2px;
+font-weight: 700;   
+font-size: 21px;
+margin: 0 0 10px;
+}
+
+.banner {
+    margin: 55px 15px;
+    width: 100%;
+    border-top: 1px solid #a0a0a0;
+    border-bottom: 1px solid #a0a0a0;
+    padding: 25px 0;
+}
+
+.banner img {
+    width: 250px;
+}
